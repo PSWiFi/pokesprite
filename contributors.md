@@ -19,6 +19,8 @@ Also, special thanks to anyone who reported issues, gave suggestions or sent in 
 
 The raw sprite files were originally ripped by Zhorken and Kaphotics who can be found at [Project Pokémon](http://projectpokemon.org/).
 
+Gen9 sprites cut from spritesheets made by user KingOfThe-X-Roads in DeviantArt.
+
 ----
 
 Feel free to use PokéSprite in your own projects or to create derivative works. We appreciate it if you credit the project, but it's not required.
