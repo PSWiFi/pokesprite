@@ -166,9 +166,11 @@ If your project uses PokéSprite and you'd like to be added to this list, feel f
 * [PokéDings](https://github.com/msikma/PokeDings) – webfont and SVG icons of special characters used in Pokémon nicknames
 * [PokéResources](https://github.com/msikma/pokeresources) – Various Pokémon image resources
 
-## License
+## License & Credits
 
-The sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.
+The sprite images in Gens 1-8 are © Nintendo/Creatures Inc./GAME FREAK Inc.
+
+Gen 9 sprites are courtesy of [KingOfThe-X-Roads](https://www.deviantart.com/kingofthe-x-roads/gallery).
 
 Everything else, and the programming code, is governed by the [MIT license](http://opensource.org/licenses/MIT).
 
