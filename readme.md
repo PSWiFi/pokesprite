@@ -168,7 +168,7 @@ If your project uses PokéSprite and you'd like to be added to this list, feel f
 
 ## License & Credits
 
-The sprite images in Gens 1-8 are © Nintendo/Creatures Inc./GAME FREAK Inc.
+The sprite images in Gens 1-8 & Legends Z-A are © Nintendo/Creatures Inc./GAME FREAK Inc.
 
 Gen 9 sprites are courtesy of [KingOfThe-X-Roads](https://www.deviantart.com/kingofthe-x-roads/gallery).
 
